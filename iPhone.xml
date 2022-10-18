@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfTelephone xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Telephone xsi:type="MobilePhone">
+    <Name>iPhone 14</Name>
+    <Firm>Apple</Firm>
+    <Price>1100</Price>
+    <Color>Grey</Color>
+    <MemoryVolume>128</MemoryVolume>
+  </Telephone>
+  <Telephone xsi:type="MobilePhone">
+    <Name>iPhone 14 Pro</Name>
+    <Firm>Apple</Firm>
+    <Price>1500</Price>
+    <Color>Grey</Color>
+    <MemoryVolume>256</MemoryVolume>
+  </Telephone>
+  <Telephone xsi:type="MobilePhone">
+    <Name>iPhone 14 Max</Name>
+    <Firm>Apple</Firm>
+    <Price>1300</Price>
+    <Color>Black</Color>
+    <MemoryVolume>128</MemoryVolume>
+  </Telephone>
+  <Telephone xsi:type="RadioTelephone">
+    <Name>iRadio-1</Name>
+    <Firm>Apple</Firm>
+    <Price>50</Price>
+    <RadiusOfOperation>50</RadiusOfOperation>
+    <PresenceOfAnsweringMachine>true</PresenceOfAnsweringMachine>
+  </Telephone>
+  <Telephone xsi:type="RadioTelephone">
+    <Name>iRadio-2</Name>
+    <Firm>Apple</Firm>
+    <Price>100</Price>
+    <RadiusOfOperation>30</RadiusOfOperation>
+    <PresenceOfAnsweringMachine>true</PresenceOfAnsweringMachine>
+  </Telephone>
+</ArrayOfTelephone>
